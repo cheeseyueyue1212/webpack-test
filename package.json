@@ -1,0 +1,33 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "从零开始搭建一个webpack项目",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheeseyueyue1212/webpack-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheeseyueyue1212/webpack-test/issues"
+  },
+  "homepage": "https://github.com/cheeseyueyue1212/webpack-test#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "csv-loader": "^3.0.2",
+    "file-loader": "^4.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
