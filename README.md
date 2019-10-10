@@ -14,3 +14,5 @@
 ```
   npm start
 ```
+> 下载node-module时报错 ， 在命令结尾添加  **--unsafe-perm=true --allow-root**  即可
+> 淘宝镜像下载 ：  命令结尾添加  **--registry=https://registry.npm.taobao.org**
