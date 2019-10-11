@@ -10,9 +10,9 @@
 
 ## 第三版本
 > 模块热替换
-###  使用方法：
+####  使用方法：
 ```
   npm start
 ```
-> 下载node-module时报错 ， 在命令结尾添加  **--unsafe-perm=true --allow-root**  即可
-> 淘宝镜像下载 ：  命令结尾添加  **--registry=https://registry.npm.taobao.org**
+> 1. 下载node-module时报错 ， 在命令结尾添加  **--unsafe-perm=true --allow-root**  即可
+> 2. 淘宝镜像下载 ：  命令结尾添加  **--registry=https://registry.npm.taobao.org**
